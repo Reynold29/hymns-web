@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="/">
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="CSI Hymns Book">
+  
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="hymns_latest">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <title>CSI Hymns Book</title>
+  <link rel="manifest" href="manifest.json">
+
+  <script src="flutter.js" defer></script>
+  <script src="main.dart.js" type="application/javascript" defer></script>
+</head>
+<body>
+  <script>
+    window.addEventListener('load', function(ev) {
+      _flutter.loader.load({
+        serviceWorker: {
+          serviceWorkerVersion: '"1773954583"'
+        }
+      }).then(function(appRunner) {
+        appRunner.runApp();
+      });
+    });
+  </script>
+  <script>
+    window.flutterWebRenderer = "wasm";
+  </script>  
+</body>
+</html>

@@ -1,0 +1,63 @@
+[
+    { 
+        "title": "Second Public Stable Version Released!",
+        "version": "2.3.0-stable",
+        "date": "24-05-2024",
+        "changes": [ 
+            "NEW Refresh Lyrics Button \n\n-> The Lyrics can now be dynamically updated, by fetching the latest updated changes from GitHub Repo. \n-> Why this change? Cuz now, there's no need to update the app each time some lyrics are corrected.\n",
+            "NEW Time Metric Filter Option",
+            "Simplify Categories List Labels",
+            "Improve UI Layout",
+            "Added a Top Nav Icon to Navigate to the Top.",
+            "For more info on changes, visit https://github.com/Reynold29/CSI-Hymns-and-Lyrics/commits/main/"
+        ]
+    },{ 
+        "title": "Public Stable Version Released!",
+        "version": "2.2.0-stable",
+        "date": "16-05-2024",
+        "changes": [ 
+            "Included All Hymns and Keerthane.",
+            "Built-In Favorites Button.",
+            "Filter Button Added with options to Order Hymns by Number, Alphabetical Order and Signatures.",
+            "Included Button to Report Wrong Lyrics.",
+            "Fixed UI Overflow Issues, enhancing smaller phones user experience",
+            "Improve Search Bar Operations. ( Now you can search using Signatures Too!! )",
+            "For more info on changes, visit https://github.com/Reynold29/CSI-Hymns-and-Lyrics/commits/main/"
+        ]
+    },{
+        "title": "Third and Final BETA Released!",
+        "version": "3.0.0-beta",
+        "date": "11-04-2024",
+        "changes": [ 
+            "NEW Font Size selection Button for every lyrics.",
+            "NEW Sidebar Menu with Categories according to events.",
+            "Now, you can swipe between the Hymns and Keerthane screens to switch between them.",
+            "Added Flaticon icons for song lists in both categories.",
+            "For more info on changes, visit https://github.com/Reynold29/CSI-Hymns-and-Lyrics/commits/main/"
+        ]
+    },
+    {
+        "title": "Second Beta Version Released!",
+        "version": "2.0.0-beta",
+        "date": "06-04-2024",
+        "changes": [
+            "Bump version to 2.0.0-beta",
+            "Added Filter option:",
+            "   -> Sort by Hymn Number",
+            "   -> Sort by Alphabetical Order",
+            "APKs / AABs from this release are signed"
+        ]
+    },
+    { 
+        "title": "First Beta Version Released!",
+        "version": "1.0.1-beta",
+        "date": "05-04-2024",
+        "changes": [ 
+            "Two separate categories for Hymns and Lyrics (Keerthane)",
+            "Added Dark Mode support",
+            "Added 1 song per category for testing purposes for now",
+            "Material You Theming included",
+            "More changes, features, songs and quality of life updates coming soon!"
+        ]
+    }
+]
